@@ -6,7 +6,7 @@ PetShop
 
 ## Equipe
 
-* [Gabriel Gomes Fachineli]()
+* [Gabriel Gomes Fachineli](https://github.com/gabrielfachineli)
 * [Guilherme Zanchettin](https://github.com/guiguizan)
 * [Juliane Valiati Maran](https://github.com/JulianeMaran32)
 
