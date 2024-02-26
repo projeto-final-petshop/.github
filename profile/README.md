@@ -25,7 +25,7 @@ PetShop
 
 * **Gerencaimento e Versionamento**
 
-- [X] Repositório Git
+- [X] [Repositório Git](https://github.com/projeto-final-petshop)
 - [ ] [Trello / Kanban](https://github.com/orgs/projeto-final-petshop/projects/1)
 
 * **Relação de Artefatos & Especificação do Projeto**
