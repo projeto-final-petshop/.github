@@ -22,9 +22,13 @@ PetShop
 
 - [X] **Equipe**
 - [X] **Tema**
-- [ ] **Gerencaimento e Versionamento**
+
+* **Gerencaimento e Versionamento**
+
 - [X] Repositório Git
 - [ ] Trello / Kanban
+
+* **Relação de Artefatos & Especificação do Projeto**
 - [ ] **Quadro "3 Objetos"**
 - [ ] **Quadro "É - NÃO É - FAZ - NÃO FAZ"**
 - [ ] **Visão do Produto**
