@@ -17,6 +17,7 @@ PetShop
 ## Documentações
 
 * [Wiki PetShop - Backend](https://github.com/projeto-final-petshop/petshop-backend/wiki)
+* [Wiki PetShop - Documents](https://github.com/projeto-final-petshop/documents/wiki)
 
 ## Checklist
 
