@@ -30,8 +30,8 @@ PetShop
 - [ ] [Trello / Kanban](https://github.com/orgs/projeto-final-petshop/projects/1)
 
 * **Relação de Artefatos & Especificação do Projeto**
-- [ ] **Quadro "3 Objetos"**
-- [ ] **Quadro "É - NÃO É - FAZ - NÃO FAZ"**
+- [X] **Quadro "3 Objetos"**
+- [X] **Quadro "É - NÃO É - FAZ - NÃO FAZ"**
 - [ ] **Visão do Produto**
 - [ ] Problemas
 - [ ] Expectativas
