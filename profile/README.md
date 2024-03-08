@@ -32,17 +32,17 @@ PetShop
 * **Relação de Artefatos & Especificação do Projeto**
 - [X] **Quadro "3 Objetos"**
 - [X] **Quadro "É - NÃO É - FAZ - NÃO FAZ"**
-- [ ] **Visão do Produto**
-- [ ] Problemas
-- [ ] Expectativas
-- [ ] Cliente-Alvo
-- [ ] Categoria-Segmento
-- [ ] Benefício-Chave
-- [ ] Diferenciado-Chave
-- [ ] Meta-Valor
+- [X] **Visão do Produto**
+- [X] Problemas
+- [X] Expectativas
+- [X] Cliente-Alvo
+- [X] Categoria-Segmento
+- [X] Benefício-Chave
+- [X] Diferenciado-Chave
+- [X] Meta-Valor
 - [ ] **Relação de Requisitos Funcionais**
 - [ ] **Caso de Uso**
-- [ ] Relação de Atores
+- [X] Relação de Atores
 - [ ] Diagrama de Caso de Uso Geral
 - [ ] **Relação de Histórias de Usuário**
 - [ ] **Modelo de Dados**
