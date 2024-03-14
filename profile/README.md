@@ -40,7 +40,7 @@ PetShop
 - [X] Benefício-Chave
 - [X] Diferenciado-Chave
 - [X] Meta-Valor
-- [ ] **Relação de Requisitos Funcionais**
+- [X] **Relação de Requisitos Funcionais**
 - [ ] **Caso de Uso**
 - [X] Relação de Atores
 - [ ] Diagrama de Caso de Uso Geral
