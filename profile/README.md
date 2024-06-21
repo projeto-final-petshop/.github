@@ -12,11 +12,12 @@ PetShop
 ## Repositórios
 
 * [PetShop - Backend](https://github.com/projeto-final-petshop/petshop-backend)
+* [PetShop - Frontend](https://github.com/projeto-final-petshop/frontend)
 
 ## Documentações
 
 * [Wiki PetShop - Backend](https://github.com/projeto-final-petshop/petshop-backend/wiki)
-* [Wiki PetShop - Documents](https://github.com/projeto-final-petshop/documents/wiki)
+* [Wiki PetShop - Documents](https://github.com/projeto-final-petshop/documents)
 
 ## Checklist
 
