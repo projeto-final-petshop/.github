@@ -6,7 +6,6 @@ PetShop
 
 ## Equipe
 
-* [Gabriel Gomes Fachineli](https://github.com/gabrielfachineli)
 * [Guilherme Zanchettin](https://github.com/guiguizan)
 * [Juliane Valiati Maran](https://github.com/JulianeMaran32)
 
@@ -27,7 +26,7 @@ PetShop
 * **Gerencaimento e Versionamento**
 
 - [X] [Repositório Git](https://github.com/projeto-final-petshop)
-- [ ] [Trello / Kanban](https://github.com/orgs/projeto-final-petshop/projects/1)
+- [X] [Trello / Kanban](https://github.com/orgs/projeto-final-petshop/projects/1)
 
 * **Relação de Artefatos & Especificação do Projeto**
 - [X] **Quadro "3 Objetos"**
@@ -41,13 +40,13 @@ PetShop
 - [X] Diferenciado-Chave
 - [X] Meta-Valor
 - [X] **Relação de Requisitos Funcionais**
-- [ ] **Caso de Uso**
+- [X] **Caso de Uso**
 - [X] Relação de Atores
-- [ ] Diagrama de Caso de Uso Geral
-- [ ] **Relação de Histórias de Usuário**
-- [ ] **Modelo de Dados**
-- [ ] **Analytics**
-- [ ] Objetivo de Negócios
-- [ ] Fonte de Dados
-- [ ] Processo de ETL (Extract-Transform-Load)
-- [ ] Projeto de Dashboard
+- [X] Diagrama de Caso de Uso Geral
+- [X] **Relação de Histórias de Usuário**
+- [X] **Modelo de Dados**
+- [X] **Analytics**
+- [X] Objetivo de Negócios
+- [X] Fonte de Dados
+- [X] Processo de ETL (Extract-Transform-Load)
+- [X] Projeto de Dashboard
